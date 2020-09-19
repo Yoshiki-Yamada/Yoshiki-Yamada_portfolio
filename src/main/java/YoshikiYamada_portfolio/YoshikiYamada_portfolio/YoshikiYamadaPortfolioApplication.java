@@ -1,0 +1,13 @@
+package YoshikiYamada_portfolio.YoshikiYamada_portfolio;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class YoshikiYamadaPortfolioApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(YoshikiYamadaPortfolioApplication.class, args);
+	}
+
+}
